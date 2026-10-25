@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/gohun04/pipers-family/main/repo/apps.json
 
 Return to the app list, select Pipers Family, then Install. This uses Homebrew Channel's installer rather than copying files into system directories. The package SHA-256 is checked during installation.
 
-Version 1.0.1 preserves the supplied 1.0.0 app and cleans its package layout: duplicate DEBIAN files and the post-install chmod of a system directory were removed. App compatibility and remote-button mapping are separate from repository setup. Installing this app does not remap the Home button.
+Version 1.0.2 was packaged using LG webOS CLI 3.2.6 from the supplied app source. Earlier manually packaged versions failed installer verification. Installing this app does not remap the Home button.
 
 ## Publish an update
 
