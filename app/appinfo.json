@@ -1,6 +1,6 @@
 {
   "id": "com.pipers.family",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "vendor": "Pipers Family",
   "type": "web",
   "main": "index.html",
@@ -8,5 +8,6 @@
   "icon": "assets/icon80.png",
   "largeIcon": "assets/icon130.png",
   "uiRevision": 2,
-  "bgColor": "#000000"
+  "bgColor": "#000000",
+  "inspectable": true
 }

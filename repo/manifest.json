@@ -1,15 +1,15 @@
 {
   "id": "com.pipers.family",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "type": "web",
   "title": "Pipers Family",
   "appDescription": "Family launcher for LG webOS TVs.",
   "iconUri": "icon.png",
   "sourceUrl": "https://github.com/gohun04/pipers-family",
   "rootRequired": true,
-  "ipkUrl": "com.pipers.family_1.1.0_all.ipk",
+  "ipkUrl": "com.pipers.family_1.2.0_all.ipk",
   "ipkHash": {
-    "sha256": "ea40f4c5d89dd15934223232bbae09a68efc97c27ccda77fc45b376eef42b071"
+    "sha256": "4b835bcadc9507c4583a92ff81df0f7fef80c92f7859b2e32311c1a0343fea21"
   },
-  "ipkSize": 27656
+  "ipkSize": 30852
 }
