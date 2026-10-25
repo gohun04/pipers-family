@@ -1,0 +1,12 @@
+{
+  "id": "com.pipers.family",
+  "version": "1.1.0",
+  "vendor": "Pipers Family",
+  "type": "web",
+  "main": "index.html",
+  "title": "Pipers Family",
+  "icon": "assets/icon80.png",
+  "largeIcon": "assets/icon130.png",
+  "uiRevision": 2,
+  "bgColor": "#000000"
+}
