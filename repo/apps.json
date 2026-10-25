@@ -1,0 +1,11 @@
+{
+  "packages": [
+    {
+      "id": "com.pipers.family",
+      "title": "Pipers Family",
+      "iconUri": "icon.png",
+      "manifestUrl": "manifest.json",
+      "shortDescription": "Family launcher for LG webOS TVs."
+    }
+  ]
+}
